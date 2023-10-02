@@ -1,0 +1,15 @@
+h1{
+    background-color: aquamarine;
+    padding:30px;
+    color: blue;
+}
+
+p{
+    width:450px;
+}
+
+nav{
+    position:fixed;
+    top:0;
+    z-index:999;
+}
